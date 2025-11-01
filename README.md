@@ -11,7 +11,7 @@ Junior Full Stack Java Developer actively seeking full-time opportunities. Passi
 ### Backend Development
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/-Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/-Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
@@ -29,9 +29,12 @@ Junior Full Stack Java Developer actively seeking full-time opportunities. Passi
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### DevOps & Others
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS Elastic Beanstalk](https://img.shields.io/badge/-AWS_Elastic_Beanstalk-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/-Amazon_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/-OAuth-000000?style=flat&logo=oauth&logoColor=white)
 
@@ -42,8 +45,8 @@ Junior Full Stack Java Developer actively seeking full-time opportunities. Passi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkhan-software-dev&layout=compact&theme=radical)
 
 ## 🔍 Currently Looking For
-- Part-time opportunities
-- Remote positions
+- Full-time opportunities
+- Remote positions  
 - Junior Full Stack Developer roles
 - Open source contributions
 
@@ -52,3 +55,5 @@ I'm always open to interesting projects and collaborations. Feel free to reach o
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalkhan.devse@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-khan-83660931b/)
+
+---

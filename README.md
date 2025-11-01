@@ -4,13 +4,14 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-khan-83660931b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bilalkhan-software-dev)
 
-Junior Full Stack Java Developer actively seeking part-time or remote opportunities. Passionate about building robust, scalable web applications with modern technologies.
+Junior Full Stack Java Developer actively seeking full-time opportunities. Passionate about building robust, scalable web applications with modern technologies.
 
 ## 🛠️ Tech Stack
 
 ### Backend Development
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/-Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)

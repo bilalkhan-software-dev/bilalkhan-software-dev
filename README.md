@@ -17,6 +17,12 @@ Junior Full Stack Java Developer actively seeking full-time opportunities. Passi
 ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat&logo=rest&logoColor=white)
 
+### Microservices & Messaging
+![Microservices](https://img.shields.io/badge/-Microservices-009688?style=flat&logo=microservices&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -57,3 +63,5 @@ I'm always open to interesting projects and collaborations. Feel free to reach o
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-khan-83660931b/)
 
 ---
+
+*Open to relocation and remote opportunities worldwide*

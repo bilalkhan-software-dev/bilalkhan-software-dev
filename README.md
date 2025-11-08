@@ -1,5 +1,11 @@
 # Hi there, I'm Muhammad Bilal Khan 👋
 
+<div align="center">
+  
+![Hello Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Java+Developer;Microservices+Enthusiast;Always+Learning)
+
+</div>
+
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bilalkhan.devse@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-khan-83660931b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bilalkhan-software-dev)

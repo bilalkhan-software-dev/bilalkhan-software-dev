@@ -27,7 +27,6 @@ Junior Full Stack Java Developer actively seeking full-time opportunities. Passi
 ![Microservices](https://img.shields.io/badge/-Microservices-009688?style=flat&logo=microservices&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
@@ -42,11 +41,21 @@ Junior Full Stack Java Developer actively seeking full-time opportunities. Passi
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### DevOps & Cloud
+### DevOps, Cloud & Security
+#### Containerization & Orchestration
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+#### CI/CD
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+#### Cloud Services
 ![AWS Elastic Beanstalk](https://img.shields.io/badge/-AWS_Elastic_Beanstalk-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/-Amazon_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
+
+#### Security
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/-OAuth-000000?style=flat&logo=oauth&logoColor=white)
 

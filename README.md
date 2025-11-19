@@ -23,6 +23,12 @@ Junior Full Stack Java Developer actively seeking full-time opportunities. Passi
 ![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat&logo=rest&logoColor=white)
 
+### Real-time & WebSocket Technologies
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=websocket&logoColor=white)
+![Spring WebSocket](https://img.shields.io/badge/-Spring_WebSocket-6DB33F?style=flat&logo=spring&logoColor=white)
+![STOMP](https://img.shields.io/badge/-STOMP-000000?style=flat&logo=socket.io&logoColor=white)
+![SockJS](https://img.shields.io/badge/-SockJS-000000?style=flat&logo=socket.io&logoColor=white)
+
 ### Microservices & Messaging
 ![Microservices](https://img.shields.io/badge/-Microservices-009688?style=flat&logo=microservices&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)

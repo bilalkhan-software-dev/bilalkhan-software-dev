@@ -77,8 +77,6 @@ Self-taught Full Stack Java Developer with strong foundation in microservices ar
 
 ## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalkhan-software-dev&show_icons=true&theme=radical&hide_title=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkhan-software-dev&layout=compact&theme=radical&hide_title=true)
 
 ## 🎯 Currently Looking For

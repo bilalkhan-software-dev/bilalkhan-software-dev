@@ -10,8 +10,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-khan-83660931b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bilalkhan-software-dev)
 
-Self-taught Full Stack Java Developer with strong foundation in microservices architecture and DevOps practices. Passionate about building scalable, maintainable applications using modern technologies and design patterns.
-
+Self-taught Full Stack Java Developer with a strong foundation in microservices architecture and DevOps practices.
+I learned everything through **real projects, freelancing, documentation, and YouTube tutorials** — not a single paid course, no bootcamp, and **no CS degree**.
+If you want the YouTube playlist or the channels I learned from, **DM me anytime**.
 ## 🚀 About Me
 
 - 💻 **Self-Taught Developer** with relentless curiosity and passion for coding

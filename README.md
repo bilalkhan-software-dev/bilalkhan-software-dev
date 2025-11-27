@@ -70,6 +70,7 @@ Self-taught Full Stack Java Developer with strong foundation in microservices ar
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![AWS Elastic Beanstalk](https://img.shields.io/badge/-AWS_Elastic_Beanstalk-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/-Amazon_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
+* Hands-on experience creating **CI/CD pipelines** for microservices, automated builds, testing, and deployments.
 
 #### Security & Authentication
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
@@ -80,7 +81,7 @@ Self-taught Full Stack Java Developer with strong foundation in microservices ar
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkhan-software-dev&layout=compact&theme=radical&hide_title=true)
 
 ## 🎯 Currently Looking For
-- **Full-time opportunities** as a Junior Full Stack Developer
+- **Full-time opportunities** as a Full Stack Developer
 - **Remote positions** with collaborative teams
 - **Projects** involving microservices and modern architectures
 - **Open source contributions** and learning opportunities

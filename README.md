@@ -1,105 +1,172 @@
-# Hi there, I'm Muhammad Bilal Khan 👋
-
 <div align="center">
-  
-![Hello Animation](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Java+Developer;Microservices+Enthusiast;Always+Learning+New+Tech)
+
+<!-- Animated wave header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:6DB33F&height=200&section=header&text=Muhammad%20Bilal%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20.NET%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+<!-- Animated typing subtitle -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=26&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&height=60&duration=3500&lines=Full+Stack+.NET+Developer;Java+%2B+Spring+Boot+Developer;Microservices+%26+Distributed+Systems;Self-Taught+%2C+Real-World+Built)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalkhan.devse@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-khan-software-dev)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilalkhan-software-dev)
+
+<!-- Profile view counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=bilalkhan-software-dev&color=6DB33F&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bilalkhan.devse@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-khan-83660931b/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bilalkhan-software-dev)
+<br/>
 
-Self-taught Full Stack Java Developer with a strong foundation in microservices architecture and DevOps practices.
-I learned everything through **real projects, freelancing, documentation, and YouTube tutorials** — not a single paid course, no bootcamp, and **no CS degree**.
-If you want the YouTube playlist or the channels I learned from, **DM me anytime**.
-## 🚀 About Me
+## 👋 About Me
 
-- 💻 **Self-Taught Developer** with relentless curiosity and passion for coding
-- 🏗️ **Microservices Enthusiast** experienced with design patterns like API Gateway, Circuit Breaker, CQRS, and Event Sourcing
-- 🔄 **DevOps Familiar** with hands-on experience in containerization, CI/CD pipelines, and cloud deployment
-- 🌱 **Continuous Learner** always exploring new technologies and best practices
-- 🎯 **Problem Solver** focused on writing clean, efficient, and scalable code
+I'm a **self-taught Full Stack Developer** working across two backend ecosystems — **Java / Spring Boot** and **C# / .NET** — plus modern React frontends. No paid course, no bootcamp, no CS degree: everything learned through real projects, freelancing, documentation, and YouTube.
+
+```yaml
+role: Full Stack Developer
+strengths: [Java, Spring Boot, C#, .NET, Microservices, React, TypeScript]
+currently_building: Code Expedition — Associate Software Engineer (Full Stack / .NET)
+learning_style: self-taught, project-driven
+open_to: full-time · remote · collaborative teams
+```
+
+<details>
+<summary><b>🏗️ What I work with day to day</b></summary>
+<br/>
+
+- **Dual backend fluency** — comfortable shipping in both Java/Spring Boot and C#/.NET, not locked into one ecosystem
+- **Microservices patterns** — API Gateway, Circuit Breaker, CQRS, Event Sourcing, SAGA
+- **Event-driven systems** — Kafka & RabbitMQ for async, decoupled architecture
+- **DevOps-familiar** — containerization, CI/CD pipelines, cloud deployment
+- **Full-stack** — pairing backend systems with React/TypeScript frontends
+
+</details>
+
+<br/>
+
+## 💼 Currently Building
+
+<div align="center">
+
+| | |
+|---|---|
+| **Company** | Code Expedition |
+| **Role** | Associate Software Engineer |
+| **Focus** | C# • .NET • Full Stack Development |
+| **Status** | 🟢 Currently working here |
+
+</div>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Backend Development
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/-Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/-Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat&logo=rest&logoColor=white)
+<div align="center">
 
-### Microservices Architecture
-![Microservices](https://img.shields.io/badge/-Microservices-009688?style=flat&logo=microservices&logoColor=white)
-![API Gateway](https://img.shields.io/badge/-API_Gateway-FF6B6B?style=flat&logo=nginx&logoColor=white)
-![Circuit Breaker](https://img.shields.io/badge/-Circuit_Breaker-F79009?style=flat&logo=circuitbreaker&logoColor=white)
-![Event Driven](https://img.shields.io/badge/-Event_Driven-7F00FF?style=flat&logo=eventbrite&logoColor=white)
+**Backend — Java**
 
-### Real-time & WebSocket Technologies
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat&logo=websocket&logoColor=white)
-![Spring WebSocket](https://img.shields.io/badge/-Spring_WebSocket-6DB33F?style=flat&logo=spring&logoColor=white)
-![STOMP](https://img.shields.io/badge/-STOMP-000000?style=flat&logo=socket.io&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-### Messaging & Event Streaming
-![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+**Backend — .NET**
 
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+**Frontend**
 
-### DevOps & Cloud
-#### Containerization & Orchestration
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-#### CI/CD & Infrastructure
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![AWS Elastic Beanstalk](https://img.shields.io/badge/-AWS_Elastic_Beanstalk-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/-Amazon_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
-* Hands-on experience creating **CI/CD pipelines** for microservices, automated builds, testing, and deployments.
+**Architecture & Messaging**
 
-#### Security & Authentication
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/-OAuth-000000?style=flat&logo=oauth&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-009688?style=flat-square)
+![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![CQRS](https://img.shields.io/badge/-CQRS-FF6B6B?style=flat-square)
 
-## 📈 GitHub Stats
+**Databases**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkhan-software-dev&layout=compact&theme=radical&hide_title=true)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bilalkhan-software-dev&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalkhan-software-dev&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkhan-software-dev&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=bilalkhan-software-dev&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+<!--
+Animated contribution snake — this needs a tiny one-time setup since GitHub
+Actions has to generate the SVG (it can't run from static markdown alone):
+1. Add a workflow file to your PROFILE repo: .github/workflows/snake.yml
+   using the official, widely-used action: https://github.com/Platane/snk
+2. It will output snake.svg to an "output" branch, then reference it below:
+   ![snake](https://raw.githubusercontent.com/bilalkhan-software-dev/bilalkhan-software-dev/output/github-contribution-grid-snake.svg)
+Ask me and I'll write the exact workflow YAML for you.
+-->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<!-- Replace with your generated snake SVG once the Action is set up -->
+<img src="https://raw.githubusercontent.com/bilalkhan-software-dev/bilalkhan-software-dev/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<br/>
 
 ## 🎯 Currently Looking For
-- **Full-time opportunities** as a Full Stack Developer
+
+- **Full-time opportunities** as a Full Stack Developer (Java or .NET stacks)
 - **Remote positions** with collaborative teams
 - **Projects** involving microservices and modern architectures
 - **Open source contributions** and learning opportunities
 
-## 💡 What I Bring
-- **Self-motivated learning** with practical project experience
-- **Strong understanding** of microservices design patterns and best practices
-- **Familiarity with DevOps** tools and processes for efficient development workflows
-- **Adaptability** to new technologies and team environments
-- **Clean code principles** and attention to software architecture
+<br/>
 
-## 📫 Let's Connect!
-I'm always excited to discuss new opportunities, collaborate on interesting projects, or connect with fellow developers!
+## 📫 Let's Connect
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalkhan.devse@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-khan-83660931b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-khan-software-dev)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilalkhan-software-dev)
 
----
+</div>
 
-*Open to relocation and remote opportunities worldwide • Passionate about building the future, one line of code at a time*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0077B5&height=100&section=footer" width="100%"/>
+
+<div align="center">
+<i>Open to relocation and remote opportunities worldwide • Full Stack — Java & .NET</i>
+</div>
